@@ -1,0 +1,21 @@
+body {
+    width: 100%;
+    margin: 30px;
+    background-color: antiquewhite;
+ }
+  
+ #mockup-container{
+    max-width: 1000px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
+ }
+  
+ #mockup-image{
+    width: 100%;
+    height: auto;
+ }
+  
+ #mockup-name{
+    text-align: center;
+ }
